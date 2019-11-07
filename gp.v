@@ -1,7 +1,7 @@
 module gp (
-  input wire [1:0] g,
-  input wire [1:0] p,
-  input wire ci,
+  input  wire [1:0] g,
+  input  wire [1:0] p,
+  input  wire ci,
   output wire go, po,
   output wire [1:0] co );
 
