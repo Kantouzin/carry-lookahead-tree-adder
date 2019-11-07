@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a 8-bit carry-lookahead tree adder by Verilog HDL.
+This is a 8-bit [carry-lookahead tree adder](https://en.wikipedia.org/wiki/Carry-lookahead_adder) circuit by Verilog HDL.
 
 The development enviroment is Quartus II.
 
